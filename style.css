@@ -1,0 +1,16 @@
+table { 
+    border-collapse: collapse; 
+    margin: 100px auto;
+}
+td {
+     width:100px; 
+     height: 100px; 
+     border: 1px solid gray;
+    text-align: center; 
+    font: 3em Arial; color: gray; 
+    cursor: pointer; 
+}
+caption {
+     font: 3em Arial; 
+     color: orange; 
+}
